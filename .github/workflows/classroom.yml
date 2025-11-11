@@ -28,8 +28,8 @@ jobs:
           input: |
             5
           expected-output: |
-            Bilangan yang dimasukkan (N): 5
-            Hasil perhitungan rekursif (1+2+3+4+5): 15
+            Bilangan yang dimasukkan : 5
+            Hasil perhitungan rekursif : 15
           comparison-method: exact
           timeout: 3
           max-score: 20
@@ -45,8 +45,8 @@ jobs:
           input: |
             1
           expected-output: |
-            Bilangan yang dimasukkan (N): 1
-            Hasil perhitungan rekursif (1): 1
+            Bilangan yang dimasukkan : 1
+            Hasil perhitungan rekursif : 1
           comparison-method: exact
           timeout: 3
           max-score: 20
@@ -62,8 +62,8 @@ jobs:
           input: |
             3
           expected-output: |
-            Bilangan yang dimasukkan (N): 3
-            Hasil perhitungan rekursif (1+2+3): 6
+            Bilangan yang dimasukkan : 3
+            Hasil perhitungan rekursif : 6
           comparison-method: exact
           timeout: 3
           max-score: 20
@@ -79,8 +79,8 @@ jobs:
           input: |
             4
           expected-output: |
-            Bilangan yang dimasukkan (N): 4
-            Hasil perhitungan rekursif (1+2+3+4): 10
+            Bilangan yang dimasukkan : 4
+            Hasil perhitungan rekursif : 10
           comparison-method: exact
           timeout: 3
           max-score: 20
@@ -96,8 +96,8 @@ jobs:
           input: |
             6
           expected-output: |
-            Bilangan yang dimasukkan (N): 6
-            Hasil perhitungan rekursif (1+2+3+4+5+6): 21
+            Bilangan yang dimasukkan : 6
+            Hasil perhitungan rekursif : 21
           comparison-method: exact
           timeout: 3
           max-score: 20
