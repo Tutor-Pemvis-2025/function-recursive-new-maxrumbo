@@ -29,8 +29,8 @@ public class TFUNC {
 		int N = sc.nextInt();
 		int hasil = HitungRekursif(N);
 
-		System.out.println("Bilangan yang dimasukkan (N): " + N);
-		System.out.println("Hasil perhitungan rekursif (" + buildSeries(N) + "): " + hasil);
+		System.out.println("Bilangan yang dimasukkan : " + N);
+		System.out.println("Hasil perhitungan rekursif : " + hasil);
 
 		sc.close();
 	}
